@@ -1,1 +1,1 @@
-# -mrw3st-osint
+# mrw3st-osint
