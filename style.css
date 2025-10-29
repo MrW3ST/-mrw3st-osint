@@ -7,7 +7,7 @@
 
 body {
     font-family: "Exo 2", sans-serif;
-    background: linear-gradient(#A4CC93); 
+    background: linear-gradient(#282a36); 
     max-width: 800px; 
     margin: 2em auto; 
     line-height: 1.6;
@@ -22,6 +22,7 @@ header, footer {
 h2 {
     font-size: 1.5em;
     text-align: center;
+    color: #ff79c6;
     }    
 
 nav a {
@@ -50,6 +51,9 @@ nav a:exp {
 .project {
     margin-bottom: 20px;
     padding: 20px;
-    background: rgba(181, 215, 183, 0.594);
+    background: #6272a4;
     border-radius: 10px;
 }
+
+
+
