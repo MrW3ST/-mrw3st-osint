@@ -51,9 +51,45 @@ nav a:exp {
 .project {
     margin-bottom: 20px;
     padding: 20px;
-    background: #6272a4;
+    background: #b5bac9;
     border-radius: 10px;
+    
 }
 
+.project-footer {
+    margin-bottom: 20px;
+    padding: 20px;
+    background: #6272a4;
+    border-radius: 10px;
+    text-align: center;
+}
 
+.picture_link {
+    margin: 0 10px;
+    display: inline-block;
+}
 
+.picture_link img {
+    width: 70px;
+    height: 70px;
+}
+
+.footer-img {
+    width: 33px !important;
+    height: 33px !important;
+    margin: 0 10px;
+}
+
+h1.openfw {
+    text-align: center;
+    font-size: 1.5em;
+    color:#50fa7b;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+
+.hyperlink {
+    color: #282a36;
+    text-decoration: none;
+}
